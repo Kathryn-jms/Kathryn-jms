@@ -20,11 +20,6 @@ Exploring **mobile and web apps development**
 Practicing coding challenges on **LeetCode & FreeCodeCamp**  
 
 
-📫 Connect With Me
-Instagram:https://www.instagram.com/karthy_jms/
-GitHub:https://github.com/Kathryn-jms/Kathryn-jms/
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/karthy_jms) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jamescartherine7@gmail.com) 
 
