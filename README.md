@@ -7,17 +7,10 @@ Constantly learning new coding skills
 Tech lover 🤍  
 Reality checks enthusiast ✨  
 
-🚀 Skills
-Programming: Python, JavaScript, PHP  
-Web Development: HTML, CSS, React, Django  
-Database: MySQL ,going on postgre 
-Tools: VS Code, Git & GitHub  
-
-
 🌱 What I'm Learning
 Deepening my knowledge in back-end development 
-Exploring **mobile and web apps development**  
-Practicing coding challenges on **LeetCode & FreeCodeCamp**  
+Exploring mobile and web apps development  
+Practicing coding challenges on LeetCode & FreeCodeCamp  
 
 
 ## 🌐 Socials:
