@@ -9,6 +9,7 @@ Reality checks enthusiast ✨
 
 🌱 What I'm Learning</br>
 Deepening my knowledge in back-end development </br>
+ Exploring mobile and web apps development</br>
 Practicing coding challenges on LeetCode & FreeCodeCamp </br> 
 
 
