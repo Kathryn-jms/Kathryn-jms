@@ -7,9 +7,9 @@ Constantly learning new coding skills
 Tech lover 🤍  
 Reality checks enthusiast ✨  
 
-🌱 What I'm Learning
-Deepening my knowledge in back-end development 
-Practicing coding challenges on LeetCode & FreeCodeCamp  
+🌱 What I'm Learning</br>
+Deepening my knowledge in back-end development </br>
+Practicing coding challenges on LeetCode & FreeCodeCamp </br> 
 
 
 ## 🌐 Socials:
